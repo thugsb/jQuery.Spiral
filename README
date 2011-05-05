@@ -1,0 +1,20 @@
+/*
+ * Spiral [v1.2]
+ * Distributed under the Do-wathever-the-hell-you-want-with-it License (with Attribution)
+ *
+ * Twitter: @ClaudioBonifazi
+ * Modified by stu åt t.apio.ca
+ */
+/*
+Options = {
+Radius: numeric (pixels), horizontal distance between starting and final points;
+Duration: number of milliseconds (as for animate) ;
+Easing: the number of cicles - if it is higher than 2 it will make more turns and will assume a 'bouncing' deceleration effect
+Queue: boolean (as for animate) ;
+Ydirection: boolean. If true, the rotation starts going up instead of down.
+Xdirection: boolean. If true the movement will be from left to the right, instead of right to left.
+InsideOut: boolean. If true, the object will whirl out from the inside of the spiral. Note that setting it to true changes the sense of Xdirection ;
+Vertical: boolean. If true, the object spiral will be primarily vertical.
+},
+Callback = function called when the animation ends (as for animate) ;
+*/
